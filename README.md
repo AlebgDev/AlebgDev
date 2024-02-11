@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋  I'm Bryan ✨ </h1> 
 
+Currently working in Binaural C.A. Odoo Gold partner, dedicated to the development and customization of Odoo modules, with experience in Accounting, Inventory, Website, 
+
 <p align="left">
-<a href="https://www.linkedin.com/in/bryan-garcia-a573661a2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/bryan-garcia-a573661a2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale"/></a>
+<a href="https://www.instagram.com/alege07/">
+  <img align="center" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Ale"/>
+</a>
+<a href="mailto:bryanalejandro3107@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Ale"/>
+</a>
   </p>
 <br>
 <h2>About me 😃</h2>
@@ -63,4 +71,5 @@
 
 
 </p>        
+
 <!--- stats (end) -->
