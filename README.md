@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  I'm Bryan ✨ </h1> 
 
-Currently working in Binaural C.A. Odoo Gold partner, dedicated to the development and customization of Odoo modules, with experience in Accounting, Inventory, Website, 
+Currently working in Binaural C.A. Odoo Gold partner, dedicated to the development and customization of Odoo modules, with experience in Accounting, Inventory, Website.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bryan-garcia-a573661a2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale"/></a>
