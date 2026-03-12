@@ -20,12 +20,12 @@
 
 <!-- Terminal intro block -->
 ```bash
-┌──(bryan㉿kali)-[~]
+┌──(bryan㉿debian)-[~]
 └─$ cat about_me.txt
 
-  > 💻 Software Engineer with 4+ years of experience
-  > 🏢 Currently @ 10x Heroes — Odoo modules (Accounting, Inventory, Website)
-  > 🐍 Specialist in Python & JavaScript ecosystems
+  > 💻 Software Engineer with 5+ years of experience
+  > 🏢 Currently @ 10x Heroes — Odoo modules
+  > 🐍 Specialist in Python ecosystems
   > 🔐 Exploring: Cybersecurity & Ethical Hacking (HTB)
   > 📊 Interests: Data Science, Web Dev, DevOps
   > 📫 bryanalejandro3107@gmail.com
@@ -46,21 +46,28 @@
 
 ---
 
-## `>> HTB Academy — Learning Roadmap 🟩`
+## `>> HackTheBox — Live Profile 🟩`
 
-> Tracking my Cybersecurity journey through Hack The Box Academy
+> 🔴 **Dynamic card** — synced live with my HTB account
 
-| Module | Status | Progress |
-|--------|--------|----------|
-| 🔐 Introduction to Networking | ✅ Done | `█████████░` 90% |
-| 🐧 Linux Fundamentals | ✅ Done | `████████░░` 80% |
-| 🌐 Web Requests | ✅ Done | `█████████░` 90% |
-| 🕵️ Introduction to Web Applications | 🔄 In Progress | `██████░░░░` 60% |
-| 💉 SQL Injection Fundamentals | 🔜 Next | `███░░░░░░░` 30% |
-| 🔓 File Upload Attacks | 🔒 Locked | `░░░░░░░░░░` 0% |
-| 🧠 Active Directory | 🔒 Locked | `░░░░░░░░░░` 0% |
+<div align="center">
 
-**Overall Path Progress:** `████████░░░░░░░░░░░░` **~40%** — Penetration Tester Job Role Path
+[![HackTheBox](https://www.hackthebox.com/badge/image/HTB-7F7B37F7B2)](https://app.hackthebox.com/profile/HTB-7F7B37F7B2)
+
+</div>
+
+> 💡 Replace `YOUR_HTB_ID` with your numeric HTB profile ID (found in your HTB profile URL)
+
+---
+
+## `>> Cybersecurity Roadmap — Live Progress 🗺️`
+
+> 🔴 **Dynamic card** — synced with my [roadmap.sh](https://roadmap.sh) tracked progress
+
+<div align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6699d759fc0c013a407eef64?variant=dark&roadmaps=cyber-security%2Csoftware-architect%2Cai-data-scientist%2Cbackend)](https://roadmap.sh)
+</div>
 
 ---
 
@@ -101,8 +108,8 @@ Data Science    █████████░░░░░░░░░░░  �
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlebgDev&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlebgDev&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 <br/>
 
@@ -129,10 +136,27 @@ Data Science    █████████░░░░░░░░░░░  �
 
 ---
 
+## `>> Activity Graph 📡`
+
+<div align="center">
+
+[![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=AlebgDev&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   "The quieter you become, the more you can hear."  ║
-║                                                     ║
+║                              — Kali Linux            ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
