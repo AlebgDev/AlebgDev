@@ -38,7 +38,6 @@
 ## `>> Connect with me`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-garcia-a573661a2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alege07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanalejandro3107@gmail.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
 
@@ -55,8 +54,6 @@
 [![HackTheBox](https://www.hackthebox.com/badge/image/HTB-7F7B37F7B2)](https://app.hackthebox.com/profile/019c6dcb-5820-71a5-b3ed-d932511e730c)
 
 </div>
-
-> 💡 Replace `YOUR_HTB_ID` with your numeric HTB profile ID (found in your HTB profile URL)
 
 ---
 
@@ -135,12 +132,5 @@ Data Science    ██████████████████░░  �
 ![Profile Views](https://komarev.com/ghpvc/?username=AlebgDev&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║   "The quieter you become, the more you can hear."  ║
-║                              — Kali Linux            ║
-╚══════════════════════════════════════════════════════╝
-```
 
 </div>
