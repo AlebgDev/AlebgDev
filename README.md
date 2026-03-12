@@ -43,17 +43,6 @@
 
 </div>
 
----
-
-## `>> Roadmap — Live Progress 🗺️`
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6699d759fc0c013a407eef64?variant=dark&roadmaps=cyber-security%2Csoftware-architect%2Cai-data-scientist%2Cbackend)](https://roadmap.sh)
-</div>
-
----
-
 ## `>> Skill Levels 📊`
 
 ```
@@ -83,6 +72,15 @@ Data Science    ██████████████████░░  �
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,git,github,linux,bash,vscode,postman&perline=10&theme=dark" />
   </a>
+</div>
+
+---
+
+## `>> Roadmap — Live Progress 🗺️`
+
+<div align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6699d759fc0c013a407eef64?variant=dark&roadmaps=cyber-security%2Csoftware-architect%2Cai-data-scientist%2Cbackend)](https://roadmap.sh)
 </div>
 
 ---
