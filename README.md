@@ -129,23 +129,6 @@ Data Science    █████████░░░░░░░░░░░  �
 
 ---
 
-## `>> Activity Graph 📡`
-
-<div align="center">
-
-[![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   "The quieter you become, the more you can hear."  ║
