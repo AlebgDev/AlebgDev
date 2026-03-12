@@ -45,9 +45,7 @@
 
 ---
 
-## `>> Cybersecurity Roadmap — Live Progress 🗺️`
-
-> 🔴 **Dynamic card** — synced with my [roadmap.sh](https://roadmap.sh) tracked progress
+## `>> Roadmap — Live Progress 🗺️`
 
 <div align="center">
 
