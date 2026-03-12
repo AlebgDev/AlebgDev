@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![HackTheBox](https://www.hackthebox.com/badge/image/HTB-7F7B37F7B2)](https://app.hackthebox.com/profile/3133663)
+[![HackTheBox](https://www.hackthebox.com/badge/image/HTB-7F7B37F7B2)](https://app.hackthebox.com/users/3133663)
 
 </div>
 
