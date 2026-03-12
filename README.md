@@ -45,18 +45,6 @@
 
 ---
 
-## `>> HackTheBox — Live Profile 🟩`
-
-> 🔴 **Dynamic card** — synced live with my HTB account
-
-<div align="center">
-
-[![HackTheBox](https://www.hackthebox.com/badge/image/HTB-7F7B37F7B2)](https://app.hackthebox.com/users/3133663)
-
-</div>
-
----
-
 ## `>> Cybersecurity Roadmap — Live Progress 🗺️`
 
 > 🔴 **Dynamic card** — synced with my [roadmap.sh](https://roadmap.sh) tracked progress
