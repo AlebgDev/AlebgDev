@@ -76,15 +76,6 @@ Data Science    ██████████████████░░  �
 
 ---
 
-## `>> Roadmap — Live Progress 🗺️`
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6699d759fc0c013a407eef64?variant=dark&roadmaps=cyber-security%2Csoftware-architect%2Cai-data-scientist%2Cbackend)](https://roadmap.sh)
-</div>
-
----
-
 ## `>> GitHub Stats 📈`
 
 <div align="center">
